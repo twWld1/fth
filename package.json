@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "udesh",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "udesh-MD WhatsApp bot created ishara udesh With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start index.js --deep-monitoring --attach --name udesh",
+    "stop": "pm2 stop udesh",
+    "restart": "pm2 restart udesh"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
