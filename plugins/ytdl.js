@@ -144,7 +144,7 @@ cmd({
           'title': "TWORLD MD",
           'body': "TEchno World",
           'mediaType': 0x1,
-          'sourceUrl': "https://chat.whatsapp.com/DRbySkWgcUpEGVUkbsI6jt,
+          'sourceUrl': "https://chat.whatsapp.com/DRbySkWgcUpEGVUkbsI6jt",
           'thumbnailUrl': "https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg",
           'renderLargerThumbnail': false,
           'showAdAttribution': true
